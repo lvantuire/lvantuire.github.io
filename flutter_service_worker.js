@@ -15,7 +15,7 @@ const RESOURCES = {
 "assets/assets/engenharia_image.jpg": "16d1477ce5affe71fee4fdfe0f3ed56a",
 "assets/assets/escritorio.jpg": "9c50edfda618ea9f5746d58bfe523411",
 "assets/assets/familia.jpg": "1151032c3eae08ebe3ea3cae285105c0",
-"assets/assets/fontes_textos_coberturas.txt": "434abee56e43729819b35b72f3efa39e",
+"assets/assets/fontes_textos_coberturas.txt": "ac7a250fb8c582e0c80627bd3747c525",
 "assets/assets/frotaimage.jpg": "60366e7983856c8148f354a7e59e9587",
 "assets/assets/graosImage.jpg": "e35e5f46f7c1a602bb71ee9b9f44f449",
 "assets/assets/logogale.png": "9906fc2cde83e35222773fdf2ca94ab1",
@@ -59,9 +59,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "142c1f377d51ba0945636a26727b3167",
-"/": "142c1f377d51ba0945636a26727b3167",
-"main.dart.js": "db3802eb456d7428a3d1650cfb2e6c10",
+"index.html": "6ff7833adb4b33369c217a2673eef201",
+"/": "6ff7833adb4b33369c217a2673eef201",
+"main.dart.js": "a3bbfff72f0a9217a4d864efa4b3366a",
 "manifest.json": "ebe7baeffd305ed93c97c52183620745",
 "version.json": "db23ba1b186be3f8b460c5950bc1ffe2"
 };

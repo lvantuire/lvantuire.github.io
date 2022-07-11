@@ -22,7 +22,11 @@
 10 - Seg Risco Engenharia
         Texto: http://www.galeseguros.com.br/page12.html
         Coberturas: https://www.mutuus.net/blog/seguro-risco-de-engenharia-conheca/#O_que_e_o_seguro_risco_de_engenharia
-11 - Seg Risco Civil Obras        
+11 - Seg Risco Civil Obras   
+        Texto: https://www.mutuus.net/blog/seguro-rc-obras/
+        Coberturas: https://www.mutuus.net/blog/seguro-rc-obras/
+        
+
 
 
 
