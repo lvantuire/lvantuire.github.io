@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6e4b261924d21b847d78a0dee924ff3b",
+  "assets/AssetManifest.json": "0436439ecfb49cb0c1dd23148f210858",
 "assets/assets/agro.jpg": "a275e0def8313a097dcbdda13ac2bc8e",
 "assets/assets/bikeimage.jpg": "53a48815fb4a5d9388032d75df61d35e",
 "assets/assets/bikeimage1.jpg": "2d01be175ff353903c6dca6e6cee3d4d",
@@ -25,6 +25,7 @@ const RESOURCES = {
 "assets/assets/rcpmedicos.jpg": "e95cb7cb81c63a3aeb61eb991cceca91",
 "assets/assets/SaudeEmpresaImage.jpg": "baf68ac753905a64c17beed9e3019829",
 "assets/assets/transporte.jpg": "551134dbfa855a3f2a72a43842a8c80d",
+"assets/assets/tratorimage.jpg": "c7002e966d960f1951bcad91702b3dec",
 "assets/assets/viagem_image.jpg": "56587a98e5dc36c38019d36aa6ff149c",
 "assets/FontManifest.json": "ffcb24467702a101fdb79c3be019d63d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -59,9 +60,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "89b86e16e9afc696161ae722d0b769cc",
-"/": "89b86e16e9afc696161ae722d0b769cc",
-"main.dart.js": "31369f01b404392ac7b24f94bc9bf147",
+"index.html": "882ed7b51de4103ce0f2db8fb554e2a2",
+"/": "882ed7b51de4103ce0f2db8fb554e2a2",
+"main.dart.js": "ab565e19b92e5dccc9394a0c26de0866",
 "manifest.json": "ebe7baeffd305ed93c97c52183620745",
 "version.json": "db23ba1b186be3f8b460c5950bc1ffe2"
 };
