@@ -3,8 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0436439ecfb49cb0c1dd23148f210858",
+  "assets/AssetManifest.json": "c2a3bbd0196c4a922fe41aa5cf3aed60",
+"assets/assets/acidentesimage.jpg": "5ada55bb531f7406ae4dc1008dc43c8e",
 "assets/assets/agro.jpg": "a275e0def8313a097dcbdda13ac2bc8e",
+"assets/assets/animaisimage.jpg": "fbcc29f6c69fc2943b8d0e373642d06b",
+"assets/assets/autoimage.jpg": "5d312d64a548e0d9714d953801b0539e",
 "assets/assets/bikeimage.jpg": "53a48815fb4a5d9388032d75df61d35e",
 "assets/assets/bikeimage1.jpg": "2d01be175ff353903c6dca6e6cee3d4d",
 "assets/assets/cargas_image.jpg": "b953dd3218d8a3aca0523f92f72919e8",
@@ -21,12 +24,15 @@ const RESOURCES = {
 "assets/assets/logogale.png": "9906fc2cde83e35222773fdf2ca94ab1",
 "assets/assets/medicos.jpg": "898b55c917fc8456820a000e28835eaf",
 "assets/assets/NovoSanto.png": "91f77d69c78202c8ca6dca1d525f990e",
+"assets/assets/plantacaoimage.jpg": "8bfe96746d1ba07882d65454fb2fdc55",
 "assets/assets/profsaude.jpg": "a629e1f7d2142db160f329397ecdeee4",
 "assets/assets/rcpmedicos.jpg": "e95cb7cb81c63a3aeb61eb991cceca91",
+"assets/assets/residencialimage.jpg": "6322e8edd912f9d3d7a3c8bee338c2a6",
 "assets/assets/SaudeEmpresaImage.jpg": "baf68ac753905a64c17beed9e3019829",
 "assets/assets/transporte.jpg": "551134dbfa855a3f2a72a43842a8c80d",
-"assets/assets/tratorimage.jpg": "c7002e966d960f1951bcad91702b3dec",
+"assets/assets/tratorimage.jpg": "8f5ab57a49e4143d5852973212b8a7dd",
 "assets/assets/viagem_image.jpg": "56587a98e5dc36c38019d36aa6ff149c",
+"assets/assets/vidaimage.jpg": "37eed4e309e37d1d7197467188c600e7",
 "assets/FontManifest.json": "ffcb24467702a101fdb79c3be019d63d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "96c8a2975e7209cd47edb29dbbf87d6b",
@@ -60,9 +66,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "3a2b329352f8bbbb114a7861f3d7bb73",
-"/": "3a2b329352f8bbbb114a7861f3d7bb73",
-"main.dart.js": "850915e4738e82f44cd1123dbea5e730",
+"index.html": "4c31662c869f5b513127424b831b5d51",
+"/": "4c31662c869f5b513127424b831b5d51",
+"main.dart.js": "48261d70305d94a9d10c6da6d0947c00",
 "manifest.json": "ebe7baeffd305ed93c97c52183620745",
 "version.json": "db23ba1b186be3f8b460c5950bc1ffe2"
 };
